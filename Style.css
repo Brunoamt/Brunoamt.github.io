@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: right;
+  display: block;
+  line-height: 24px;
+  
+}
+
+.header h2 {
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  height: 100%;
+  font-family: Andale Mono, monospace;
+}
+
+.about{
+  height: 300px;
+  text-align: center;
+  font-family: Andale Mono, monospace;
+  }
+
+.about h2 {
+  margin-top: 50px;
+
+}
+
+.about p {
+  margin-top: 25px;
+  
+}
+
+#minha-foto {
+  float: left;
+  height: 200px;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: darkblue;
+  
+}
+
+.skills {
+  height: 100%;
+  padding: 200px;
+  text-align: left;
+  font-family: Andale Mono, monospace;
+}
+
+body {
+  background-color: steelblue;
+}
+
+.footer {
+  height: 100px;
+  padding: 100px;
+  text-align: left;
+  font-family: Andale Mono, monospace;
+}
